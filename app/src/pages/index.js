@@ -38,8 +38,8 @@ const LandingComponent = () => {
     <Slide>
       <div className="lc" id="home">
         <div className="left">
-          <div className="title"><Fade up>Green Keys @ UChicago</Fade></div>
-          <div className="subtitle"><Fade delay={400} up>Creating Green Keys Finance at UChicago</Fade></div>
+          <div className="title"><Fade up>Green Keys Finance</Fade></div>
+          <div className="subtitle"><Fade delay={400} up>- at UChicago -</Fade></div>
           <Fade delay={800} up><div className="buttonParent">
             <a href="https://forms.gle/tboYkc6ZU6akRxoY8" target="_blank">
               <Blob>
