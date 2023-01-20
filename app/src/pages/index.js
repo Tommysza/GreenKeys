@@ -69,7 +69,7 @@ const AfterMain = () => {
       <Slide style={{backgroundColor: "#00784A", paddingTop: "50px", paddingBottom: "50px"}}>
         <div className="title">OUR MISSION</div>
         <div className="clubDescription"><Fade>
-        We aim to harness the power of Finance for positive social good and mental health. Through strategies of Financial Planning, Modeling and Banking, Green Keys @ UChicago will serve as a hotspot for Financial learning inside UChicago's intelligent student population. Students searching to meet people and join a community will find a home at Green Keys. <br />
+        We aim to harness the power of Finance for positive social good and mental health. Through diverse strategies and education in Finance, Green Keys @ UChicago will serve as a hotspot for Financial learning inside UChicago's intelligent student population. Students searching to meet people and join a community will find a home at Green Keys. <br />
         </Fade></div>
         <div className="threeBoxes">
           <Fade up><div className="box">
