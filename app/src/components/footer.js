@@ -6,7 +6,6 @@ import Slide from './slide';
 
 import logo from '../images/logo.png';
 
-import facebook from '../images/social/facebook.png';
 import instagram from '../images/social/instagram.png';
 
 function Footer() {
@@ -23,13 +22,12 @@ function Footer() {
             </div>
           </div>
           <div className="right">
-            <a href="https://www.facebook.com/" target="_blank"><img src={facebook}></img></a>
-            <a href="https://www.instagram.com/" target="_blank"><img src={instagram}></img></a>
+            <a href="https://www.instagram.com/greenkeysfinance/" target="_blank"><img src={instagram}></img></a>
           </div>
         </div>
         <div className="data">
           <div className="left">
-            © Green Keys @ UChicago {(new Date()).getFullYear()}. We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.
+            © Green Keys @ UChicago {(new Date()).getFullYear()}. We are a student group acting independently of the University of Chicago. We take full responsibility for our organization and this web site.
           </div>
           <div className="right">
             <a href="https://www.ocf.berkeley.edu">

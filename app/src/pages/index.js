@@ -110,7 +110,7 @@ const JoinSlide = () => {
             <Fade right><a href="https://zubatomic.com/metaverse/redirect" target="_blank"><div className="link">Go to main site</div></a></Fade>
             <div className="header">INTERESTED IN JOINING?</div>
             <div className="subheader">Open to undergraduate students this <b>{currentSemester} {currentYear}</b>.</div>
-            <div className="text">Membership is open for {currentSemester.toLowerCase()}! Find a community at Berkeley, and have fun while doing so, by joining Green Keys@Uchicago. Membership is a right of every UC Berkeley student and thus joining is as simple as signing up. We will be holding our kickoff meeting soon, so be sure to sign up soon!</div>
+            <div className="text">Membership is open for {currentSemester.toLowerCase()}! Find a community at UChicago, and have fun while doing so, by joining Green Keys@Uchicago. Membership is a right of every UChicago student and thus joining is as simple as signing up. We will be holding our kickoff meeting soon, so be sure to sign up soon!</div>
           </div>
         }
         {currentSemester == "Summer" && 
@@ -118,7 +118,7 @@ const JoinSlide = () => {
             <Fade right><a href="https://zubatomic.com/metaverse/redirect" target="_blank"><div className="link">Go to main site</div></a></Fade>
             <div className="header">INTERESTED IN JOINING?</div>
             <div className="subheader">Open to undergraduate students during <b>{currentYear}</b>.</div>
-            <div className="text">Membership will open during fall later this year. Find a community at Berkeley, and have fun while doing so, by joining Green Keys@UChicago. Membership is a right of every UC Berkeley student and thus joining is as simple as signing up.</div>
+            <div className="text">Membership will open during fall later this year. Find a community at UChicago, and have fun while doing so, by joining Green Keys@UChicago. Membership is a right of every UChicago student and thus joining is as simple as signing up.</div>
           </div>
         }
         <div className="option">
