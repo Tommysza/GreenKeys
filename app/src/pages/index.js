@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import Fade from 'react-reveal/Fade';
 import Roll from 'react-reveal/Roll';
 
-import logo from '../images/logo.png';
+import logo from '../images/old_logo.png';
 import communitySVG from '../images/community.svg';
 import com2 from '../images/com2.png';
 import com3 from '../images/com3.png';
@@ -74,18 +74,18 @@ const AfterMain = () => {
         <div className="threeBoxes">
           <Fade up><div className="box">
             <div className="icon"><img src={communitySVG}></img></div>
-            <div className="heading">Community</div>
-            <div className="description">We are a community-first organization. Our principal aim is to provide true tight-knit communities to students at UChicago from all walks of life. The creation of Green Keys thus becomes just a tool to achieve this. </div>
+            <div className="heading">Financial Modelling & Planning</div>
+            <div className="description">Green Keys is focused on educating members on financial literacy, through seminars, workshops and resources on budgeting, saving, investing and financial planning & modeling, to empower them to make informed financial decisions for their long-term well-being. </div>
           </div></Fade>
           <Fade delay={400} up><div className="box">
             <div className="icon"><img src={com2}></img></div>
-            <div className="heading">Exploration</div>
-            <div className="description">Innovation, exploration and creation is at the root of our culture. It is through relentless iteration that we aim to tackle complex phenomena such as capital markets. New ideas are always welcomed.</div>
+            <div className="heading">Commercial Banking</div>
+            <div className="description">Green Keys educates members on commercial banking, providing resources and guidance on financial products and services to help them navigate the banking system.</div>
           </div></Fade>
           <Fade delay={800} up><div className="box">
             <div className="icon"><img src={com3}></img></div>
-            <div className="heading">Growth</div>
-            <div className="description">We strive to accompany every UChicago student through the exciting, yet sometimes rocky experience that is entering University for the first time by providing a safe-space for personal growth and community.</div>
+            <div className="heading">Capital Markets</div>
+            <div className="description">Green Keys educates members on the capital markets, providing resources and guidance on securities and financial instruments, as well as investment strategies and risk management.</div>
           </div></Fade>
         </div>
       </Slide>
