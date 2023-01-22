@@ -152,6 +152,8 @@ const IndexPage = () => {
     <Page>
       <LandingComponent />
       <AfterMain />
+      <script data-goatcounter="https://greenkeys.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
       <JoinSlide />
       <ContactSlide />
     </Page>
