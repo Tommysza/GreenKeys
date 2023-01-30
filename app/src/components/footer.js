@@ -27,7 +27,7 @@ function Footer() {
         </div>
         <div className="data">
           <div className="left">
-            © Green Keys @ UChicago {(new Date()).getFullYear()}. We are a student group acting independently of the University of Chicago. We take full responsibility for our organization and this web site.
+            © Green Keys @ UChicago {(new Date()).getFullYear()}. We are a student group acting independently of the University of Chicago. We take full responsibility for our organization and this web site. Note: The '$' represents Colombian Pesos.
           </div>
           <div className="right">
             <a href="https://www.ocf.berkeley.edu">
