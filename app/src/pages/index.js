@@ -75,7 +75,7 @@ const AfterMain = () => {
           <Fade up><div className="box">
             <div className="icon"><img src={communitySVG}></img></div>
             <div className="heading">Financial Modelling & Planning</div>
-            <div className="description">Green Keys is focused on educating members on financial literacy, through seminars, workshops and resources on budgeting, saving, investing and financial planning & modeling. We currently manage an investment fund of over $400,000. </div>
+            <div className="description">Green Keys is focused on educating members on financial literacy, through seminars, workshops and resources on budgeting, saving, investing and financial planning & modeling. We currently manage an investment fund of over 10,000 usd. </div>
           </div></Fade>
           <Fade delay={400} up><div className="box">
             <div className="icon"><img src={com2}></img></div>
